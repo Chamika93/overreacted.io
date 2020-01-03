@@ -30,7 +30,7 @@ In this post, I will briefly summarize some of the arguments and counter-argumen
 
 ## My Conclusion
 
-I don't care.
+I don't care
 
 I would use whatever convention already exists in the codebase.
 
